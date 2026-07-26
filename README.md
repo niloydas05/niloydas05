@@ -15,10 +15,8 @@
 ‎<img src="https://img.shields.io/github/stars/niloydas05?affiliations=OWNER&style=for-the-badge"/>
 ‎
 ‎</div>
-‎
-‎---
-‎
-‎💫 About Me
+
+💫 About Me
 ‎
 ‎Name:
 ‎  Niloy Das.
@@ -41,8 +39,6 @@
 ‎  Design efficient automation systems
 ‎  that save time and improve productivity.
 ‎
-‎---
-‎
 ‎⚡ Core Expertise
 ‎
 ‎✔ AI Automation
@@ -61,7 +57,7 @@
 ‎
 ‎✔ Process Optimization
 ‎
-‎---
+‎
 ‎
 ‎🛠 Languages & Tools
 ‎
@@ -92,18 +88,7 @@
 ‎<img src="https://github-readme-streak-stats.herokuapp.com/?user=niloydas05&theme=tokyonight&hide_border=true"/>
 ‎
 ‎</div>
-‎
-‎---
-‎
-‎🏆 GitHub Trophy
-‎
-‎<div align="center">
-‎
-‎<img src="https://github-profile-trophy.vercel.app/?username=niloydas05&theme=tokyonight&no-frame=true&row=2&column=4"/>
-‎
-‎</div>
-‎
-‎---
+
 ‎
 ‎📈 Contribution Graph
 ‎
@@ -113,7 +98,7 @@
 ‎
 ‎</div>
 ‎
-‎---
+‎
 ‎
 ‎🚀 Professional Profile
 ‎
@@ -124,7 +109,7 @@
 ‎integrating APIs,
 ‎and developing solutions that improve productivity.
 ‎
-‎---
+‎
 ‎
 ‎💼 Organization
 ‎
@@ -144,7 +129,7 @@
 ‎
 · ‎Intelligent Business Systems
 ‎
-‎---
+‎
 ‎
 ‎🎯 Vision
 ‎
@@ -152,7 +137,7 @@
 ‎eliminates repetitive work,
 ‎and creates smarter digital experiences.
 ‎
-‎---
+‎
 ‎
 ‎⚙️ Technology Stack
 ‎
@@ -178,7 +163,7 @@
 ‎
 ‎</div>
 ‎
-‎---
+‎
 ‎
 ‎🚀 Services
 ‎
@@ -187,7 +172,7 @@
 ‎
 ‎</div>
 ‎
-‎---
+‎
 ‎
 ‎📂 Featured Work
 ‎
@@ -201,7 +186,7 @@
 ‎
 ‎✔ Automation Strategy
 ‎
-‎---
+‎
 ‎
 ‎🔗 API Integration
 ‎
@@ -213,7 +198,7 @@
 ‎
 ‎✔ Webhooks
 ‎
-‎---
+‎
 ‎
 ‎⚡ Workflow Engineering
 ‎
@@ -225,7 +210,7 @@
 ‎
 ‎✔ Multi-step Workflows
 ‎
-‎---
+‎
 ‎
 ‎💡 What I Build
 ‎
@@ -239,7 +224,7 @@
 ‎
 · ‎Smart Digital Processes
 ‎
-‎---
+‎
 ‎
 ‎📌 Currently Working On
 ‎
@@ -253,7 +238,7 @@
 ‎
 ‎■■■■■ Intelligent Systems
 ‎
-‎---
+‎
 ‎
 ‎📈 Productivity Mindset
 ‎
@@ -262,7 +247,7 @@
 ‎It's about creating reliable systems
 ‎that continue working even when you're offline.
 ‎
-‎---
+‎
 ‎
 ‎⭐ Professional Principles
 ‎
@@ -278,13 +263,13 @@
 ‎
 ‎✔ User Focused Solutions
 ‎
-‎---
+‎
 ‎
 ‎🧩 Development Philosophy
 ‎
 ‎Think ➜ Design ➜ Automate ➜ Improve ➜ Scale
 ‎
-‎---
+‎
 ‎
 ‎🌍 Open For
 ‎
@@ -298,7 +283,7 @@
 ‎
 · ‎Open Source Contributions
 ‎
-‎---
+‎
 ‎
 ‎📚 Areas of Interest
 ‎
@@ -314,7 +299,7 @@
 ‎
 · ‎Business Technology
 ‎
-‎---
+‎
 ‎
 ‎<div align="center">
 ‎
@@ -322,7 +307,7 @@
 ‎
 ‎</div>
 ‎
-‎---
+‎
 ‎
 ‎📌 Workflow Expertise
 ‎
@@ -330,8 +315,7 @@
 ‎
 ‎
 ‎</div>
-‎
-‎---
+
 ‎
 ‎🔥 Automation Stack
 ‎
@@ -352,7 +336,7 @@
 ‎                             ▼
 ‎                    Final Automation
 ‎
-‎---
+‎
 ‎
 ‎🌟 Goals
 ‎
@@ -366,7 +350,7 @@
 ‎
 · ‎Contribute to Open Source
 ‎
-‎---
+‎
 ‎
 ‎📊 GitHub Overview
 ‎
@@ -376,7 +360,7 @@
 ‎
 ‎</div>
 ‎
-‎---
+‎
 ‎
 ‎<div align="center">
 ‎
@@ -386,7 +370,7 @@
 ‎
 ‎</div>
 ‎
-‎---
+‎
 ‎
 ‎🚀 Development Workflow
 ‎
