@@ -541,59 +541,17 @@
 ‎
 ‎
 ‎
-<h2>📊 Weekly Development Focus</h2>
+## 📊 Weekly Development Focus
 
-<table>
-<tr>
-<td width="220"><b>🤖 AI Automation</b><br>100%</td>
-<td width="500">
-<svg width="100%" height="16">
-<rect width="100%" height="16" rx="8" fill="#2f3542"/>
-<rect width="100%" height="16" rx="8" fill="#00C6FF"/>
-</svg>
-</td>
-</tr>
+![AI Automation](https://img.shields.io/badge/🤖_AI_Automation-100%25-0D96F6?style=flat-square)
 
-<tr>
-<td><b>⚡ Workflow Design</b><br>90%</td>
-<td>
-<svg width="100%" height="16">
-<rect width="100%" height="16" rx="8" fill="#2f3542"/>
-<rect width="90%" height="16" rx="8" fill="#B026FF"/>
-</svg>
-</td>
-</tr>
+![Workflow Design](https://img.shields.io/badge/⚡_Workflow_Design-90%25-A020F0?style=flat-square)
 
-<tr>
-<td><b>🔗 API Integration</b><br>85%</td>
-<td>
-<svg width="100%" height="16">
-<rect width="100%" height="16" rx="8" fill="#2f3542"/>
-<rect width="85%" height="16" rx="8" fill="#00E676"/>
-</svg>
-</td>
-</tr>
+![API Integration](https://img.shields.io/badge/🔗_API_Integration-85%25-00C853?style=flat-square)
 
-<tr>
-<td><b>💻 Open Source</b><br>75%</td>
-<td>
-<svg width="100%" height="16">
-<rect width="100%" height="16" rx="8" fill="#2f3542"/>
-<rect width="75%" height="16" rx="8" fill="#FF9800"/>
-</svg>
-</td>
-</tr>
+![Open Source](https://img.shields.io/badge/💻_Open_Source-75%25-FB8C00?style=flat-square)
 
-<tr>
-<td><b>🔬 Research</b><br>95%</td>
-<td>
-<svg width="100%" height="16">
-<rect width="100%" height="16" rx="8" fill="#2f3542"/>
-<rect width="95%" height="16" rx="8" fill="#FF2D95"/>
-</svg>
-</td>
-</tr>
-</table>/br>
+![Research](https://img.shields.io/badge/🔬_Research-95%25-E91E63?style=flat-square)
 ‎
 ‎
 ‎
