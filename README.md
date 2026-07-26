@@ -4,7 +4,9 @@
 ‎
 ‎🚀 AI Automation Engineer | n8n Workflow Architect | Member of NeuralFlow Technologies</h3>
 ‎
-<h4>‎<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Building+Powerful+AI+Automation+Systems;Workflow+Automation+%7C+API+Integration;Creating+Smarter+Digital+Solutions;Welcome+To+My+GitHub+Profile"/></h4></br>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=170&lines=Building+Powerful+AI+Automation+Systems;Workflow+Automation+%7C+API+Integration;Creating+Smarter+Digital+Solutions;Welcome+To+My+GitHub+Profile" alt="Typing SVG" />
+</h3></br>
 ‎</br>
 <br>
 ‎
@@ -39,7 +41,7 @@
 ‎  Design efficient automation systems
 ‎  that save time and improve productivity.
 ‎
-‎⚡ Core Expertise
+⚡ Core Expertise
 ‎
 ‎✔ AI Automation
 ‎
@@ -229,15 +231,15 @@
 ‎
 ‎📌 Currently Working On</br>
 ‎
-‎■ AI Automation
+‎✪ AI Automation
 ‎
-‎■■ Workflow Optimization
+‎✪ Workflow Optimization
 ‎
-‎■■■ API Integration
+‎✪ API Integration
 ‎
-‎■■■■ Business Automation
+‎✪ Business Automation
 ‎
-‎■■■■■ Intelligent Systems</br>
+‎✪ Intelligent Systems</br>
 ‎
 ‎
 ‎
@@ -539,17 +541,59 @@
 ‎
 ‎
 ‎
-‎📊 Weekly Development Focus</br>
-‎
-‎AI Automation          ████████████████████ 100%</br>
-‎
-‎Workflow Design        ██████████████████░░ 90%</br>
-‎
-‎API Integration        █████████████████░░░ 85%</br>
-‎
-‎Open Source            ███████████████░░░░░ 75%</br>
-‎
-‎Research               ███████████████████░ 95%</br>
+<h2>📊 Weekly Development Focus</h2>
+
+<table>
+<tr>
+<td width="220"><b>🤖 AI Automation</b><br>100%</td>
+<td width="500">
+<svg width="100%" height="16">
+<rect width="100%" height="16" rx="8" fill="#2f3542"/>
+<rect width="100%" height="16" rx="8" fill="#00C6FF"/>
+</svg>
+</td>
+</tr>
+
+<tr>
+<td><b>⚡ Workflow Design</b><br>90%</td>
+<td>
+<svg width="100%" height="16">
+<rect width="100%" height="16" rx="8" fill="#2f3542"/>
+<rect width="90%" height="16" rx="8" fill="#B026FF"/>
+</svg>
+</td>
+</tr>
+
+<tr>
+<td><b>🔗 API Integration</b><br>85%</td>
+<td>
+<svg width="100%" height="16">
+<rect width="100%" height="16" rx="8" fill="#2f3542"/>
+<rect width="85%" height="16" rx="8" fill="#00E676"/>
+</svg>
+</td>
+</tr>
+
+<tr>
+<td><b>💻 Open Source</b><br>75%</td>
+<td>
+<svg width="100%" height="16">
+<rect width="100%" height="16" rx="8" fill="#2f3542"/>
+<rect width="75%" height="16" rx="8" fill="#FF9800"/>
+</svg>
+</td>
+</tr>
+
+<tr>
+<td><b>🔬 Research</b><br>95%</td>
+<td>
+<svg width="100%" height="16">
+<rect width="100%" height="16" rx="8" fill="#2f3542"/>
+<rect width="95%" height="16" rx="8" fill="#FF2D95"/>
+</svg>
+</td>
+</tr>
+</table>/br>
 ‎
 ‎
 ‎
