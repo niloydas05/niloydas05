@@ -543,15 +543,15 @@
 ‎
 ## 📊 Weekly Development Focus
 
-![AI Automation](https://img.shields.io/badge/🤖_AI_Automation-100%25-0D96F6?style=flat-square)
+AI Automation      <span style="color:#00BFFF">▰▰▰▰▰</span> 100%
 
-![Workflow Design](https://img.shields.io/badge/⚡_Workflow_Design-90%25-A020F0?style=flat-square)
+Workflow Design    <span style="color:#A855F7">▰▰▰▰▱</span> 90%
 
-![API Integration](https://img.shields.io/badge/🔗_API_Integration-85%25-00C853?style=flat-square)
+API Integration    <span style="color:#22C55E">▰▰▰▰▱</span> 85%
 
-![Open Source](https://img.shields.io/badge/💻_Open_Source-75%25-FB8C00?style=flat-square)
+Open Source        <span style="color:#F59E0B">▰▰▰▱▱</span> 75%
 
-![Research](https://img.shields.io/badge/🔬_Research-95%25-E91E63?style=flat-square)
+Research           <span style="color:#EC4899">▰▰▰▰▰</span> 95%</br>
 ‎
 ‎
 ‎
