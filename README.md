@@ -177,7 +177,7 @@
 ‎
 ‎📂 Featured Work </br>
 ‎
-‎🤖 AI Automation
+‎🤖 AI Automation</br>
 ‎
 ‎✔ Workflow Design
 ‎
@@ -185,11 +185,11 @@
 ‎
 ‎✔ Smart Integrations
 ‎
-‎✔ Automation Strategy
+‎✔ Automation Strategy</br>
 ‎
 ‎
 ‎
-‎🔗 API Integration
+‎🔗 API Integration</br>
 ‎
 ‎✔ REST APIs
 ‎
@@ -197,11 +197,11 @@
 ‎
 ‎✔ Data Synchronization
 ‎
-‎✔ Webhooks
+‎✔ Webhooks</br>
 ‎
 ‎
 ‎
-‎⚡ Workflow Engineering
+‎⚡ Workflow Engineering</br>
 ‎
 ‎✔ Automated Pipelines
 ‎
@@ -209,11 +209,11 @@
 ‎
 ‎✔ Trigger Based Automation
 ‎
-‎✔ Multi-step Workflows
+‎✔ Multi-step Workflows</br>
 ‎
 ‎
 ‎
-‎💡 What I Build
+‎💡 What I Build</br>
 ‎
 · ‎Intelligent Automation Systems
 ‎
@@ -223,11 +223,11 @@
 ‎
 · ‎Scalable Automation Pipelines
 ‎
-· ‎Smart Digital Processes
+· ‎Smart Digital Processes</br>
 ‎
 ‎
 ‎
-‎📌 Currently Working On
+‎📌 Currently Working On</br>
 ‎
 ‎■ AI Automation
 ‎
@@ -237,20 +237,20 @@
 ‎
 ‎■■■■ Business Automation
 ‎
-‎■■■■■ Intelligent Systems
+‎■■■■■ Intelligent Systems</br>
 ‎
 ‎
 ‎
-‎📈 Productivity Mindset
+‎📈 Productivity Mindset</br>
 ‎
 ‎Automation is not just about saving time.
 ‎
 ‎It's about creating reliable systems
-‎that continue working even when you're offline.
+‎that continue working even when you're offline.</br>
 ‎
 ‎
 ‎
-‎⭐ Professional Principles
+‎⭐ Professional Principles</br>
 ‎
 ‎✔ Clean Workflow Design
 ‎
@@ -262,17 +262,17 @@
 ‎
 ‎✔ Smart Integration
 ‎
-‎✔ User Focused Solutions
+‎✔ User Focused Solutions</br>
 ‎
 ‎
 ‎
-‎🧩 Development Philosophy
+‎🧩 Development Philosophy</br>
 ‎
-‎Think ➜ Design ➜ Automate ➜ Improve ➜ Scale
+‎Think ➜ Design ➜ Automate ➜ Improve ➜ Scale</br>
 ‎
 ‎
 ‎
-‎🌍 Open For
+‎🌍 Open For</br>
 ‎
 · ‎Collaboration
 ‎
@@ -282,11 +282,11 @@
 ‎
 · ‎AI Integration
 ‎
-· ‎Open Source Contributions
+· ‎Open Source Contributions</br>
 ‎
 ‎
 ‎
-‎📚 Areas of Interest
+‎📚 Areas of Interest</br>
 ‎
 · ‎Artificial Intelligence
 ‎
@@ -298,7 +298,7 @@
 ‎
 · ‎Digital Transformation
 ‎
-· ‎Business Technology
+· ‎Business Technology</br>
 ‎
 ‎
 ‎
