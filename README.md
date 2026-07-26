@@ -7,7 +7,12 @@
 ‎<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Building+Powerful+AI+Automation+Systems;Workflow+Automation+%7C+API+Integration;Creating+Smarter+Digital+Solutions;Welcome+To+My+GitHub+Profile"/>
 ‎
 ‎<br>
-
+‎
+‎<img src="https://komarev.com/ghpvc/?username=niloydas05&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+‎
+‎<img src="https://img.shields.io/github/followers/niloydas05?label=Followers&style=for-the-badge"/>
+‎
+‎<img src="https://img.shields.io/github/stars/niloydas05?affiliations=OWNER&style=for-the-badge"/>
 ‎
 ‎</div>
 ‎
@@ -81,6 +86,19 @@
 ‎</p>
 ‎
 ‎---
+‎
+‎📊 GitHub Analytics
+‎
+‎<div align="center">
+‎
+‎<img height="180em"
+‎src="https://github-readme-stats.vercel.app/api?username=niloydas05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+‎
+‎<br>
+‎
+‎<img height="180em"
+‎src="https://github-readme-stats.vercel.app/api/top-langs/?username=niloydas05&layout=compact&theme=tokyonight&hide_border=true"/>
+‎
 ‎</div>
 ‎
 ‎---
@@ -916,5 +934,9 @@
 ‎
 ‎---
 ‎
+‎<div align="center">
 ‎
+‎<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=footer&text=Thanks%20For%20Visiting!&fontSize=34&fontColor=ffffff&animation=fadeIn"/>
+‎
+‎</div>
 ‎
