@@ -1,13 +1,12 @@
 ‎<div align="center">
 ‎
-‎<h1>Hi 👋 I'm Niloy Das
+‎<h3>Hi 👋 I'm Niloy Das
 ‎
-‎🚀 AI Automation Engineer | n8n Workflow Architect | Member of NeuralFlow Technologies</h1>
+‎🚀 AI Automation Engineer | n8n Workflow Architect | Member of NeuralFlow Technologies</h3>
 ‎
-‎<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Building+Powerful+AI+Automation+Systems;Workflow+Automation+%7C+API+Integration;Creating+Smarter+Digital+Solutions;Welcome+To+My+GitHub+Profile"/></br>
+<h4>‎<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Building+Powerful+AI+Automation+Systems;Workflow+Automation+%7C+API+Integration;Creating+Smarter+Digital+Solutions;Welcome+To+My+GitHub+Profile"/></h4></br>
 ‎</br>
-‎</br>
-</br><br>
+<br>
 ‎
 ‎<img src="https://komarev.com/ghpvc/?username=niloydas05&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
 ‎
