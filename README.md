@@ -339,7 +339,7 @@
 ‎
 ‎
 ‎
-‎🌟 Goals
+‎🌟 Goals</br>
 ‎
 · ‎Build Enterprise Automation Systems
 ‎
@@ -349,11 +349,11 @@
 ‎
 · ‎Build Scalable Integrations
 ‎
-· ‎Contribute to Open Source
+· ‎Contribute to Open Source</br>
 ‎
 ‎
 ‎
-‎📊 GitHub Overview
+‎📊 GitHub Overview</br>
 ‎
 ‎<div align="center">
 ‎
@@ -373,7 +373,7 @@
 ‎
 ‎
 ‎
-‎🚀 Development Workflow
+‎🚀 Development Workflow</br>
 ‎
 ‎Idea
 ‎ │
@@ -396,11 +396,11 @@
 ‎Deployment
 ‎ │
 ‎ ▼
-‎Continuous Improvement
+‎Continuous Improvement</br>
 ‎
-‎---
 ‎
-‎💼 Core Values
+‎
+‎💼 Core Values</br>
 ‎
 ‎✅ Quality
 ‎
@@ -412,19 +412,19 @@
 ‎
 ‎✅ Scalability
 ‎
-‎✅ Simplicity
+‎✅ Simplicity</br>
 ‎
-‎---
 ‎
-‎📖 Favorite Quote
+‎
+‎📖 Favorite Quote</br>
 ‎
 ‎"Great software isn't built by writing more code.
 ‎
-‎It's built by solving problems intelligently."
+‎It's built by solving problems intelligently."</br>
 ‎
-‎---
 ‎
-‎📅 Future Roadmap
+‎
+‎📅 Future Roadmap</br>
 ‎
 ‎☑ Advanced AI Automation
 ‎
@@ -438,11 +438,11 @@
 ‎
 ‎☑ SaaS Automation
 ‎
-‎☑ Open Source Projects
+‎☑ Open Source Projects</br>
 ‎
-‎---
 ‎
-‎🤝 Collaboration
+‎
+‎🤝 Collaboration</br>
 ‎
 ‎I enjoy collaborating on:
 ‎
@@ -454,11 +454,11 @@
 ‎
 · ‎Business Automation
 ‎
-· ‎Innovative Open Source Projects
+· ‎Innovative Open Source Projects</br>
 ‎
-‎---
 ‎
-‎📈 Daily Focus
+‎
+‎📈 Daily Focus</br>
 ‎
 ‎Learn
 ‎  ↓
@@ -468,9 +468,9 @@
 ‎  ↓
 ‎Improve
 ‎  ↓
-‎Repeat
+‎Repeat</br>
 ‎
-‎---
+‎
 ‎
 ‎<div align="center">
 ‎
@@ -478,7 +478,7 @@
 ‎
 ‎</div>
 ‎
-‎---
+‎
 ‎
 ‎🌐 Connect With Me
 ‎
@@ -511,49 +511,49 @@
 ‎
 ‎</div>
 ‎
-‎---
 ‎
-‎📌 Featured Repositories
 ‎
-‎🤖 AI Automation Projects
+‎📌 Featured Repositories</br>
 ‎
-‎Professional workflow automation, API integration and business automation solutions.
+‎🤖 AI Automation Projects</br>
 ‎
-‎---
+‎Professional workflow automation, API integration and business automation solutions.</br>
 ‎
-‎⚡ n8n Workflows
 ‎
-‎Powerful automation workflows for real-world business use cases.
 ‎
-‎---
+‎⚡ n8n Workflows</br>
 ‎
-‎🔗 API Integrations
+‎Powerful automation workflows for real-world business use cases.</br>
 ‎
-‎Connecting applications and services with secure, scalable APIs.
 ‎
-‎---
 ‎
-‎🚀 Future Projects
+‎🔗 API Integrations</br>
 ‎
-‎More exciting automation solutions coming soon...
+‎Connecting applications and services with secure, scalable APIs.</br>
 ‎
-‎---
 ‎
-‎📊 Weekly Development Focus
 ‎
-‎AI Automation          ████████████████████ 100%
+‎🚀 Future Projects</br>
 ‎
-‎Workflow Design        ██████████████████░░ 90%
+‎More exciting automation solutions coming soon...</br>
 ‎
-‎API Integration        █████████████████░░░ 85%
 ‎
-‎Open Source            ███████████████░░░░░ 75%
 ‎
-‎Research               ███████████████████░ 95%
+‎📊 Weekly Development Focus</br>
 ‎
-‎---
+‎AI Automation          ████████████████████ 100%</br>
 ‎
-‎🧠 Mindset
+‎Workflow Design        ██████████████████░░ 90%</br>
+‎
+‎API Integration        █████████████████░░░ 85%</br>
+‎
+‎Open Source            ███████████████░░░░░ 75%</br>
+‎
+‎Research               ███████████████████░ 95%</br>
+‎
+‎
+‎
+‎🧠 Mindset</br>
 ‎
 ‎Think Bigger
 ‎
