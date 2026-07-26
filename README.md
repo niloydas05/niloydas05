@@ -21,21 +21,21 @@
 ‎💫 About Me
 ‎
 ‎Name:
-‎  Niloy Das
+‎  Niloy Das.
 ‎
 ‎Role:
-‎  Member of NeuralFlow Technologies
+‎  Member of NeuralFlow Technologies.
 ‎
 ‎Specialization:
-‎  AI Automation
-‎  Workflow Development
-‎  API Integration
-‎  Business Automation
+‎  AI Automation.
+‎  Workflow Development.
+‎  API Integration.
+‎  Business Automation.
 ‎
 ‎Current Focus:
-‎  Intelligent Automation
-‎  Scalable Workflow Design
-‎  AI Driven Solutions
+‎  Intelligent Automation.
+‎  Scalable Workflow Design.
+‎  AI Driven Solutions.
 ‎
 ‎Mission:
 ‎  Design efficient automation systems
@@ -84,10 +84,6 @@
 ‎<img src="https://skillicons.dev/icons?i=linux"/>
 ‎
 ‎</p>
-‎
-‎---
-‎
-‎---
 ‎
 ‎<div align="center">
 ‎
