@@ -102,47 +102,52 @@ Location: Bangladesh
 
 ---
 
-# 💻 Languages & Tools
+## 💻 Languages
 
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,ts,bash,linux,docker,git,github,vscode,postman,mysql,postgresql,mongodb,redis,supabase,firebase,aws,cloudflare,fastapi&theme=dark"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts" />
 </p>
 
-<p align="center">
+---
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+## 🛠️ Development Tools
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Webhooks-FF9800?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,linux,docker,git,github,vscode,postman" />
 </p>
+
+---
+
+## ☁️ Cloud & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,cloudflare,firebase,n8n" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
+</p>
+
+---
+
+## 🤖 AI & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=openai" />
+</p>
+
+- OpenAI API
+- Ollama
+- Gemini
+- LangChain
+- REST API
+- GraphQL
+- Webhooks
+- AI Agents
 
 ---
 
